@@ -1,0 +1,27 @@
+[
+  {
+    "name": "Dr. Sheetal Mundhada",
+    "expertise": "Orthopedic Surgeon",
+    "city": "HSR Layout"
+  },
+  {
+    "name": "Dr. Narendra Modi",
+    "expertise": "Cardiologist",
+    "city": "Indiranagar"
+  },
+  {
+    "name": "Dr. Rahul Gandhi",
+    "expertise": "Pediatrician",
+    "city": "Sadhashiva Nagar"
+  },
+  {
+    "name": "Dr. Aravind ",
+    "expertise": "Dermatologist",
+    "city": "Yelahanka"
+  },
+  {
+    "name": "Dr. Yogi Adi",
+    "expertise": "Neurologist",
+    "city": "Koramangala"
+  }
+]
