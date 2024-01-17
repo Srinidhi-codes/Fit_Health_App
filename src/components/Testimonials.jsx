@@ -34,8 +34,8 @@ const Testimonials = () => {
     }, []);
 
     return (
-        <section className="bg-skin-secondary">
-            <div className="mx-auto max-w-[1340px] px-4 py-12 sm:px-6 lg:me-0 lg:py-16 lg:pe-0 lg:ps-8 xl:py-24 bg-skin-second text-skin-text">
+        <section className="bg-skin-secondary w-full">
+            <div className=" max-w-full px-4 py-12 sm:px-6 lg:me-0 lg:py-16 lg:pe-0 lg:ps-8 xl:py-24 bg-skin-second text-skin-text">
                 <div className="grid grid-cols-1 gap-8 lg:grid-cols-3 lg:items-center lg:gap-16">
                     <div className="max-w-xl text-center ltr:sm:text-left rtl:sm:text-right">
                         <h2 className="text-3xl font-bold tracking-tight text-skin-text sm:text-4xl">
@@ -43,7 +43,7 @@ const Testimonials = () => {
                         </h2>
 
                         <p className="mt-4 text-skin-text">
-                            Discover the transformative power of FitHealth for yourself. Join the journey to a healthier and happier you. Experience the difference that a commitment to well-being can make. Your path to fitness begins here!"
+                            Discover the transformative power of FixHealth for yourself. Join the journey to a healthier and happier you. Experience the difference that a commitment to well-being can make. Your path to Fixness begins here!"
                         </p>
 
                         <div className="hidden lg:mt-8 lg:flex lg:gap-4">
@@ -52,7 +52,7 @@ const Testimonials = () => {
                                 id="keen-slider-previous-desktop"
                                 className="rounded-full border border-rose-600 p-3 text-rose-600 transition hover:bg-rose-600 hover:text-white"
                             >
-                                {/* <svg
+                                <svg
                                     xmlns="http://www.w3.org/2000/svg"
                                     fill="none"
                                     viewBox="0 0 24 24"
@@ -65,7 +65,7 @@ const Testimonials = () => {
                                         strokeLinejoin="round"
                                         d="M15.75 19.5L8.25 12l7.5-7.5"
                                     />
-                                </svg> */}
+                                </svg>
                             </button>
 
                             <button
@@ -73,7 +73,7 @@ const Testimonials = () => {
                                 id="keen-slider-next-desktop"
                                 className="rounded-full border border-rose-600 p-3 text-rose-600 transition hover:bg-rose-600 hover:text-white"
                             >
-                                {/* <svg
+                                <svg
                                     className="h-5 w-5 rtl:rotate-180"
                                     fill="none"
                                     stroke="currentColor"
@@ -86,7 +86,7 @@ const Testimonials = () => {
                                         strokeLinejoin="round"
                                         strokeWidth="2"
                                     />
-                                </svg> */}
+                                </svg>
                             </button>
                         </div>
                     </div>
@@ -159,7 +159,7 @@ const Testimonials = () => {
                                             <p className="text-2xl font-bold text-rose-600 sm:text-3xl">Good Hospitality</p>
 
                                             <p className="mt-4 leading-relaxed text-skin-text">
-                                                Choosing FitHealth has been a game-changer for me! The dedication to well-being and fitness is truly unparalleled. The expert guidance and personalized approach have made my fitness journey not only effective but also enjoyable.
+                                                Choosing FixHealth has been a game-changer for me! The dedication to well-being and Fixness is truly unparalleled. The expert guidance and personalized approach have made my Fixness journey not only effective but also enjoyable.
                                             </p>
                                         </div>
                                     </div>
@@ -236,7 +236,7 @@ const Testimonials = () => {
                                             <p className="text-2xl font-bold text-rose-600 sm:text-3xl">Healthy Vibes</p>
 
                                             <p className="mt-4 leading-relaxed text-skin-text">
-                                                The insightful advice and support provided by the FitHealth team have transformed my perspective on a healthy lifestyle. With a focus not just on physical fitness but also on overall well-being, FitHealth stands out as a holistic solution.
+                                                The insightful advice and support provided by the FixHealth team have transformed my perspective on a healthy lifestyle. With a focus not just on physical Fixness but also on overall well-being, FixHealth stands out as a holistic solution.
                                             </p>
                                         </div>
                                     </div>
@@ -313,7 +313,7 @@ const Testimonials = () => {
                                             <p className="text-2xl font-bold text-rose-600 sm:text-3xl">Feeling Happy</p>
 
                                             <p className="mt-4 leading-relaxed text-skin-text">
-                                                I am grateful for the positive impact FitHealth has had on my life. The journey to a healthier me has been made smoother and more enjoyable, thanks to the expertise and commitment of the FitHealth professionals. I wholeheartedly recommend FitHealth to anyone looking for a comprehensive and personalized approach to fitness and well-being!"
+                                                I am grateful for the positive impact FixHealth has had on my life. The journey to a healthier me has been made smoother and more enjoyable, thanks to the expertise and commitment of the FixHealth professionals. I wholeheartedly recommend FixHealth to anyone looking for a comprehensive and personalized approach to Fixness and well-being!"
                                             </p>
                                         </div>
                                     </div>
